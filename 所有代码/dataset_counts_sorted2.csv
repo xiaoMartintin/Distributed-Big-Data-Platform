@@ -1,0 +1,21 @@
+dataset,count
+mozilla-foundation/common_voice_7_0,1321
+squad,846
+common_voice,737
+mozilla-foundation/common_voice_11_0,633
+glue,583
+xtreme,471
+emotion,456
+imdb,421
+relbert/semeval2012_relational_similarity_v6,367
+wikipedia,342
+conll2003,335
+c4,232
+imagefolder,188
+squad_v2,177
+universal_dependencies,172
+mozilla-foundation/common_voice_8_0,163
+ wikipedia,162
+wmt16,150
+tweet_eval,132
+cnn_dailymail,131
